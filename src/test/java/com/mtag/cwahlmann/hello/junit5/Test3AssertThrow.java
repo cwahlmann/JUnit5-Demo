@@ -7,7 +7,7 @@ import java.io.IOException;
 
 import org.junit.jupiter.api.Test;
 
-public class JUnit5Test3 {
+public class Test3AssertThrow {
 
 	@Test
 	void test1() {
@@ -19,7 +19,7 @@ public class JUnit5Test3 {
 	}
 
 	@Test
-	void test4() {
+	void test2() {
 		assertThrows(IOException.class, () -> {
 			throw new NullPointerException();
 		}, () -> "wrong exception type");

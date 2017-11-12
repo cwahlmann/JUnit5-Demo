@@ -23,4 +23,10 @@ public class Pojo {
 	public void dec() {
 		this.value--;
 	}
+
+	@Override
+	public String toString() {
+		return "Pojo [value=" + value + "]";
+	}
+
 }
