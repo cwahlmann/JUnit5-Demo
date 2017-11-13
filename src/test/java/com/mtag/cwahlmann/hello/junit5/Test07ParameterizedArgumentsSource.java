@@ -8,7 +8,7 @@ import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.ArgumentsProvider;
 import org.junit.jupiter.params.provider.ArgumentsSource;
 
-public class Test7ParameterizedArgumentsSource {
+public class Test07ParameterizedArgumentsSource {
 
 	// ------------------- with one parameter of type Pojo --
 

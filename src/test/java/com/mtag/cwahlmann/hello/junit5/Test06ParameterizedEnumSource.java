@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.EnumSource;
 
-public class Test6ParameterizedEnumSource {
+public class Test06ParameterizedEnumSource {
 
 	@ParameterizedTest
 	@EnumSource(value = TimeUnit.class)

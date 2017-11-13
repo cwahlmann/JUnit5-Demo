@@ -15,7 +15,7 @@ import org.junit.jupiter.api.DynamicTest;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestFactory;
 
-public class Test4AssertAllVsDynamic {
+public class Test04AssertAllVsDynamic {
 
 	@Test
 	void test1() {

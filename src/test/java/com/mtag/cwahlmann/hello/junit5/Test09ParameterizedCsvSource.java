@@ -7,7 +7,7 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvFileSource;
 import org.junit.jupiter.params.provider.CsvSource;
 
-public class Test9ParameterizedCsvSource {
+public class Test09ParameterizedCsvSource {
 	
 	@ParameterizedTest
 	@CsvSource({ "foo, 1", "bar, 2", "'grieve, good', 3" })

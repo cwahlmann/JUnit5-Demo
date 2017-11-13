@@ -3,7 +3,7 @@ package com.mtag.cwahlmann.hello.junit5;
 import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
 
-public class Test2Nested {
+public class Test02Nested {
 	
 	@Test
 	void test1() {}

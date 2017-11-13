@@ -7,7 +7,7 @@ import java.io.IOException;
 
 import org.junit.jupiter.api.Test;
 
-public class Test3AssertThrow {
+public class Test03AssertThrow {
 
 	@Test
 	void test1() {

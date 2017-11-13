@@ -15,8 +15,8 @@ import org.junit.platform.commons.logging.Logger;
 import org.junit.platform.commons.logging.LoggerFactory;
 
 @TestInstance(Lifecycle.PER_CLASS)
-class Test1Setup {
-	private final static Logger log = LoggerFactory.getLogger(Test1Setup.class);
+class Test01Setup {
+	private final static Logger log = LoggerFactory.getLogger(Test01Setup.class);
 
 	Pojo pojo;
 	Pojo pojo2;
